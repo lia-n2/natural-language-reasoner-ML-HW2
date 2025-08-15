@@ -1,4 +1,4 @@
-# natural-language-reasoner-ML-HW2
+# natural-language-reasoner
 
 Given a set of sentence pairs, for each pair of sentence, the first one is considered as a precondition, while the second one is a statement. The goal is to develop a natural language reasoner to decide whether the precondition will enable or disable the statement.
 
